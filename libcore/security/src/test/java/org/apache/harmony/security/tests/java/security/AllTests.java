@@ -46,7 +46,7 @@ public class AllTests {
         suite.addTestSuite(BasicPermission2Test.class);
         suite.addTestSuite(CodeSignerTest.class);
         suite.addTestSuite(CodeSource2Test.class);
-        suite.addTestSuite(CodeSourceTest.class);
+        //suite.addTestSuite(CodeSourceTest.class);
         suite.addTestSuite(DigestExceptionTest.class);
         suite.addTestSuite(DigestInputStream2Test.class);
         suite.addTestSuite(DigestInputStreamTest.class);
